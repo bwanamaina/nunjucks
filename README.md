@@ -8,16 +8,16 @@ Developed By [bwanamaina](https://bwanamaina.com)
 
 In the root project directory, you can run:
 
-### `npm install`
+`npm install`
 
 This will install the required dependencies
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
-### `npm run dev` or `nodemon server.js`
+`npm run dev` or `nodemon server.js`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
