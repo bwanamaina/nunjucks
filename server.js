@@ -15,6 +15,8 @@ const skills = {
   3: 'C#',
   4: 'SQL',
   5: 'Azure',
+  6: 'CSS#',
+  7: 'HTML5',
 };
 
 app.get('/', (req, res) => {
